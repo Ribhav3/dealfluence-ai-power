@@ -5,6 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  base: "https://github.com/Ribhav3/dealfluence-ai-power",
   server: {
     host: "::",
     port: 8080,
