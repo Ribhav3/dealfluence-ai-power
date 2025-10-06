@@ -5,7 +5,7 @@ export const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8">
           <div className="space-y-4">
             <h3 className="text-2xl font-bold gradient-primary bg-clip-text text-black">
-              Dealfluence
+              Adbandhu
             </h3>
             <p className="text-sm text-muted-foreground">
               Connecting businesses with influencers for authentic brand growth.
@@ -44,7 +44,7 @@ export const Footer = () => {
         </div>
 
         <div className="mt-12 pt-8 border-t text-center text-sm text-muted-foreground">
-          <p>© 2025 Dealfluence. All rights reserved.</p>
+          <p>© 2025 Adbandhu. All rights reserved.</p>
         </div>
       </div>
     </footer>

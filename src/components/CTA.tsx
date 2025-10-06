@@ -11,7 +11,7 @@ export const CTA = () => {
     e.preventDefault();
     if (email) {
       toast.success("You're on the waitlist! We'll be in touch soon.", {
-        description: "Get ready for early access to Dealfluence",
+        description: "Get ready for early access to Adbandhu",
       });
       setEmail("");
     }
@@ -33,7 +33,7 @@ export const CTA = () => {
             </h2>
             
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Join hundreds of businesses and creators already using Dealfluence to build authentic partnerships
+              Join hundreds of businesses and creators already using Adbandhu to build authentic partnerships
             </p>
 
             <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
