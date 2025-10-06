@@ -34,7 +34,7 @@ export const HowItWorks = () => {
         <div className="text-center mb-16 space-y-4">
           <h2 className="text-4xl md:text-5xl font-bold">
             How it{" "}
-            <span className="gradient-primary bg-clip-text text-transparent">
+            <span className="gradient-primary bg-clip-text text-black">
               works
             </span>
           </h2>
@@ -59,7 +59,7 @@ export const HowItWorks = () => {
                   
                   {/* Icon circle */}
                   <div className={`w-32 h-32 rounded-full bg-gradient-to-br ${step.color} flex items-center justify-center shadow-xl hover:scale-110 transition-transform`}>
-                    <Icon className="w-16 h-16 text-white" />
+                    <Icon className="w-16 h-16 text-black" />
                   </div>
                 </div>
                 

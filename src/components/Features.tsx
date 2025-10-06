@@ -41,7 +41,7 @@ export const Features = () => {
         <div className="text-center mb-16 space-y-4">
           <h2 className="text-4xl md:text-5xl font-bold">
             Everything you need to{" "}
-            <span className="gradient-primary bg-clip-text text-transparent">
+            <span className="gradient-primary bg-clip-text text-black">
               succeed
             </span>
           </h2>
@@ -60,7 +60,7 @@ export const Features = () => {
               >
                 <CardContent className="p-6 space-y-4">
                   <div className="w-14 h-14 rounded-2xl gradient-primary flex items-center justify-center group-hover:scale-110 transition-transform">
-                    <Icon className="w-7 h-7 text-white" />
+                    <Icon className="w-7 h-7 text-black" />
                   </div>
                   <h3 className="text-xl font-semibold">{feature.title}</h3>
                   <p className="text-muted-foreground leading-relaxed">

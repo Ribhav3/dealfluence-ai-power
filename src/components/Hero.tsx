@@ -23,7 +23,7 @@ export const Hero = () => {
             
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight">
               Hire influencers{" "}
-              <span className="gradient-primary bg-clip-text text-transparent">
+              <span className="gradient-primary bg-clip-text text-black">
                 without the celebrity budget
               </span>
             </h1>
@@ -45,7 +45,7 @@ export const Hero = () => {
             <div className="pt-8">
               <p className="text-sm text-muted-foreground mb-2">Trusted by growing brands</p>
               <p className="text-lg font-semibold">
-                <span className="gradient-primary bg-clip-text text-transparent">100+</span> creators • <span className="gradient-primary bg-clip-text text-transparent">50+</span> brands already signed up
+                <span className="gradient-primary bg-clip-text text-black">100+</span> creators • <span className="gradient-primary bg-clip-text text-black">50+</span> brands already signed up
               </p>
             </div>
           </div>

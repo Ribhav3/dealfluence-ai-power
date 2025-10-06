@@ -27,7 +27,7 @@ export const CTA = () => {
           <div className="glass-card rounded-3xl p-12 md:p-16 text-center space-y-8 shadow-2xl">
             <h2 className="text-4xl md:text-5xl font-bold">
               Ready to{" "}
-              <span className="gradient-primary bg-clip-text text-transparent">
+              <span className="gradient-primary bg-clip-text text-black">
                 get started?
               </span>
             </h2>
